@@ -1,5 +1,11 @@
 @import url("https://fonts.googleapis.com/css2?family=Be+Vietnam+Pro:wght@300&display=swap");
 
+body {
+  background-color: #ffffff;
+  color: #000000; 
+}
+
+
 :root {
     --bgOrange: #e84949; /* Set the desired color value */
 }
